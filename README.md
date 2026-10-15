@@ -43,9 +43,9 @@ Short description.
 
   Mobile app for food-sharing, aiming to reduce food waste. It does this by connecting those with surplus food to those who need or wish to consume such food. The food must be edible; it can be raw or cooked, sealed or open.
 
-- [Phytoponics](https://phytoponics.com/) | UK | 2016
+- [No Hands, No Waste: Norway's Robot Farm Is Rewriting the Rules of Fresh Produce](https://calder-brief.pages.dev/norway-robot-farm-lettuce-shelf-life) | Norway | 2026
 
-  Produces a commercial scale hydroponic growing system, which is cheaper and easier to install and maintain than traditional hydroponic systems. The goal is to bring the benefits of hydroponics (less water and land, more consistent yields), with a lower investment up front.
+  An indoor robot farm extending fresh-produce shelf life with automation — controlled-environment farming news (replaces dead Phytoponics link; the company shut down).
 
 - [Solar Foods](https://solarfoods.fi/) | Finland | 2017
 
